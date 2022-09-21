@@ -12,6 +12,7 @@ namespace Muveletek2
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Szia");
+            Console.WriteLine("Sziaaa");
         }
     }
 }
